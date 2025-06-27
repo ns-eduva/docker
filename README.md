@@ -15,3 +15,4 @@
 - github.com/joho/godotenv
 - github.com/nsevenpack/testup
 - go.mongodb.org/mongo-driver
+- github.com/nsevenpack/mignosql
